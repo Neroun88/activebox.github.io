@@ -1,1 +1,1 @@
-adjkajd.github.io/index.html
+https://username.github.io/index.html
